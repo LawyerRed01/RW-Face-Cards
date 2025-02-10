@@ -1,0 +1,16 @@
+{
+	"id": "rwFaceCards",
+	"name": "Rain World Face Cards",
+	"display_name": "RW Face Cards",
+	"author": ["LawyerRed"],
+	"description": "Changes the design of cards to use Rain World's characters and karma system.",
+	"prefix": "rwFace",
+	"main_file": "RW-Face-Cards.lua",
+	"priority": 0,
+	"badge_colour": "DF4A5E",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.*)"
+	]
+}
