@@ -3,7 +3,7 @@
 	"name": "Rain World Face Cards",
 	"display_name": "RW Face Cards",
 	"author": ["LawyerRed"],
-	"description": "Changes the design of cards to use Rain World's characters and karma system.",
+	"description": "A version of the Rain World card deck that only changes the face cards.",
 	"prefix": "rwFace",
 	"main_file": "RW-Face-Cards.lua",
 	"priority": 0,
